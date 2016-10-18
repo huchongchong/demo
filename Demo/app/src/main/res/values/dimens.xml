@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="text_selectedit">25sp</dimen>
+    <dimen name="selectedit_area_width">230dp</dimen>
+    <dimen name="selectedit_area_height">125dp</dimen>
+    <dimen name="devider">4dp</dimen>
+    <dimen name="devider_width">464dp</dimen>
+    <dimen name="devider_height">125dp</dimen>
+    <dimen name="colorpickerview__required_padding">6dp</dimen>
+
+    <dimen name="colorpickerview__dialog_preview_width">65dp</dimen>
+    <dimen name="colorpickerview__dialog_preview_height">32dp</dimen>
+
+</resources>
